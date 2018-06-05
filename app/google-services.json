@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "270306813112",
+    "firebase_url": "https://isa-social.firebaseio.com",
+    "project_id": "isa-social",
+    "storage_bucket": "isa-social.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270306813112:android:e8745fc15e77a924",
+        "android_client_info": {
+          "package_name": "com.example.srivatsan.perceptron"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270306813112-kk57tor7huhvlg28mhe3fd152s0fs1ft.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "270306813112-kk57tor7huhvlg28mhe3fd152s0fs1ft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzqm3kABfpr6GWWyYbrg9rCShvrob3LM8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
