@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">270306813112-kk57tor7huhvlg28mhe3fd152s0fs1ft.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://isa-social.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">270306813112</string>
+    <string name="google_api_key" translatable="false">AIzaSyBzqm3kABfpr6GWWyYbrg9rCShvrob3LM8</string>
+    <string name="google_app_id" translatable="false">1:270306813112:android:e8745fc15e77a924</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBzqm3kABfpr6GWWyYbrg9rCShvrob3LM8</string>
+    <string name="google_storage_bucket" translatable="false">isa-social.appspot.com</string>
+    <string name="project_id" translatable="false">isa-social</string>
+</resources>
